@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mert</h1>
+<h2 align="center">Hi 👋, I'm Mert</h2>
 <h3 align="center">I was a geological engineer. I decided to change my sector. I have just started to work on Frontend Development.</h3>
 
 - 🔭 I’m currently working on **Frontend Development Projects**
