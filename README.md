@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Frontend Development**
 
-- 🌱 I’m currently learning **React & Redux.**
+- 🌱 I’m currently learning **Next.js & Redux**
 
 - 📫 How to reach me **mertoztat@gmail.com**
 
