@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Frontend Development**
 
-- 🌱 I’m currently learning **Typescript, Redux**
+- 🌱 I’m currently learning **Nodejs, Express, MongoDB**
 
 - 📫 How to reach me **mertoztat@gmail.com**
 
