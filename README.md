@@ -29,7 +29,6 @@ const mert = {
     tools    : ["Git", "Figma", "Photoshop", "Illustrator"],
   },
   currentlyLearning : "Advanced system design & scalable architectures",
-  funFact           : "I went from mapping rocks 🪨 to building apps 🚀",
 };
 ```
 
